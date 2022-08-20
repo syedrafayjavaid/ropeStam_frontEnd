@@ -18,3 +18,8 @@ mui latest version
 react-bootstrap
 jwt-decoder for decoding jwt tokens
 axois for apis requests
+app has jwt token authetication enable and has private routes only accessible when user is login nad token is valid , if the token is expired app goes back to login as it should 
+
+
+
+<-------------------------->
