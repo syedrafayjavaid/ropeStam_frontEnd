@@ -2,8 +2,8 @@ ropeStam app
 
 how start the Project ?
 
-step 1 : simply install dependencies by using npm install 
-step :  simply run npm start to load up the project 
+step 1 : simply install dependencies by using npm install ,
+step 2 :  simply run npm start to load up the project 
 
 
 More Instructions
