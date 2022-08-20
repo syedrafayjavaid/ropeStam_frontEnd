@@ -1,0 +1,59 @@
+.signUpDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: bisque;
+
+}
+
+.signUpButton {
+
+    background-color: #C0392B !important;
+    color: "white";
+    margin-left: 75px !important;
+
+}
+
+.cardHeader {
+
+    background-color: #C0392B;
+    color: white;
+    border-radius: 8px;
+
+}
+
+.cardTitle {
+
+    margin-bottom: 18px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Baufra";
+    color: white;
+    height: 30px
+}
+
+.cardStyle {
+
+    margin: auto;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: "10px 10px 30px #C0392B"
+
+}
+
+.carCart {
+
+    margin: 150px auto;
+    height: 250px;
+    width: 250px;
+    background-color: #C0392B
+}
+
+
+.dashbaordBackground {
+    background-color: bisque;
+    height: 100vh
+}
